@@ -133,8 +133,8 @@ npm run build
 ## 👨‍💻 Author
 
 * **Your Name**
-* 🔗 [LinkedIn](https://linkedin.com/in/your-link)
-* 🐙 [GitHub](https://github.com/your-username)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/muneesh-sharma-8b75a7185/)
+* 🐙 [GitHub](https://github.com/Muneesh1929)
 
 ---
 
